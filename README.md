@@ -1,2 +1,6 @@
 # -5143-OpSys-Ritu
 first assignment
+
+-FIRST NAMEC:RITU LAST NAME: RAJ
+-EMAIL-ID:RTRAJ88@GMAIL.COM
+
