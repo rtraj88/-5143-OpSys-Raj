@@ -2,4 +2,4 @@
 first assignment
 
 * **First Name** - Ritu  **Last Name** - Raj
-* **Email-id** rtraj88@gmail.com
+* **Email-id** - rtraj88@gmail.com
