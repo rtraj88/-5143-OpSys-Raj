@@ -1,5 +1,5 @@
 # -5143-OpSys-Ritu
 first assignment
-* RITU
-* RAJ
-* RTRAJ88@GMAIL.COM
+
+* First Name - Ritu  Last Name - Raj
+* Email-id rtraj88@gmail.com
