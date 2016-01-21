@@ -1,6 +1,6 @@
 # 5143-OpSys-Raj
 first Assignment
 
- ![my pic] (https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_xOCfe6AyFj3p1gndqfW_8J0I7zj_XMSpD90bxbnLvEppTXatqQ)
+ ![my pic] (blob:https%3A//mail.google.com/c0d7f866-09ca-4e33-8bc1-a977514ef9bc)
 - **First Name** - Ritu  **Last Name** - Raj
 - **Email-id** - rtraj88@gmail.com
