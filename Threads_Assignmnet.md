@@ -10,6 +10,19 @@
 
 ## 1.Explain the differences between Threads1 and Threads2 using lines from the code and a precise explanation.
 
+Threads1 has two threads namely threadA and threadB, each with its own local variable(k), ThreadA and ThreadB completes its execution before main method does. 
+
+            threadA.join()
+            threadB.join()
+
+            print 'Goodbye from the main program'
+
+Where as in Threads2 we have a global variable(sharedCounter) and this variable is shared among two threads that makes sharedCounter inconsistent.
+
+            global sharedCounter
+
+            print 'A:', k, sharedCounter
+
 ## 2.After running Thread3.py does it fix the problems that occured in Threads2.py? What's the down-side?
 
 ## 3.Comment out the join statements at the bottom of the program and describe what happens.
