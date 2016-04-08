@@ -55,5 +55,11 @@ Threads4.py has a global variable called sharedNumber and it is shared between t
 
 ## 6.Does uncommenting the lock operations clear up the problem in question 5?
 
+It has clear up the problem as we have applied lock on variable when ever some thread tries to write into/read from shared variable. In this context ThreadA, ThreadB starts and prints nothing as 'if(condition)' does not satisfy.Main thread terminates after other threads does as we have join() method.
+
+            Hello from the main program
+            Goodbye from thread B
+            Goodbye from thread A
+            Goodbye from the main program
 
 
